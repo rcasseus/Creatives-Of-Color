@@ -75,7 +75,8 @@
 
   &:hover {
     background-color: $button-raised-background-hover;
-    @extend .z-depth-1-half;
+    color: red;
+    // @extend .z-depth-1-half;
   }
 }
 

@@ -19,11 +19,17 @@
 
 
   .card-title {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 300;
+    margin-bottom: 0;
+    color: $off-black;
     &.activator {
       cursor: pointer;
     }
+    & a {
+      color: $off-black;
+    }
+
   }
 
   // Card Sizes
@@ -31,15 +37,20 @@
     position: relative;
 
     .card-image {
-      max-height: 40%;
+      max-height: 30%;
       overflow: hidden;
     }
     .card-image + .card-content {
-      max-height: 40%;
+      max-height: 50%;
     }
     .card-content {
       max-height: 100%;
       overflow: hidden;
+    }
+    .location {
+      font-size: 12px;
+      color: $secondary-color;
+      margin-bottom: 10px;
     }
     .card-action {
       position: absolute;
@@ -131,6 +142,9 @@
       top: 0;
       bottom: 0;
       width: 100%;
+      a {
+
+      }
     }
 
     .card-title {
@@ -154,7 +168,7 @@
     .card-title {
       display: block;
       line-height: 32px;
-      margin-bottom: 8px;
+      margin-bottom: 0;
 
       i {
         line-height: 32px;
@@ -169,13 +183,13 @@
     position: relative;
     background-color: inherit;
     // border-top: 1px solid rgba(160,160,160,.2);
-    padding: 16px $card-padding;
+    padding: 0  15px 5px;
 
     a:not(.btn):not(.btn-large):not(.btn-floating) {
       color: $card-link-color;
         // margin-right: $card-padding;
       transition: color .3s ease;
-      text-transform: uppercase;
+      text-transform: capitalize;
 
       &:hover { color: $card-link-color-light; }
     }

@@ -82,14 +82,22 @@
 
     }
 
+// Button
     &.btn,
     &.btn-large,
-    &.btn-floating { color: $button-raised-color; }
+    &.btn-floating {
+      color: $button-raised-color;
+      box-shadow: none;
+      line-height: 75%;
+      text-transform: capitalize;
+
+    }
+
     &.btn-flat { color: $button-flat-color; }
 
     &.btn:hover,
-    &.btn-large:hover { background-color: lighten($button-raised-background, 5%); }
-    &.btn-floating:hover { background-color: $button-raised-background; }
+    &.btn-large:hover { background-color: darken($button-raised-background, 10%); }
+    // &.btn-floating:hover { background-color: $button-raised-background; }
 
     & > i,
     & > [class^="mdi-"], li > a > [class*="mdi-"],

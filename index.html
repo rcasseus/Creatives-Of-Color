@@ -2,7 +2,6 @@
 <html>
   <head>
     <title>Creatives Of Color</title>
-
 <!-- Meta -->
     <meta charset="utf-8">
     <meta name="author" content="Rashan Casseus">
@@ -21,48 +20,32 @@
 
 
 <!-- Links -->
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="sass/materialize.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <script src="/js/app.js"></script>
-    <!-- Compiled and minified CSS -->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
-     <!-- Compiled and minified JavaScript -->
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-             
+
   </head>
   <body>
 
-
-
       <div class="row">
-
-
 
         <!-- Left Column -->
 
         <div class="col s12 m12 l4">
           <ul id="slide-out" class="side-nav fixed">
            <li><h1 id="demo">Creatives Of Color</h1></li>
-           <li><p>This project is to help promote people of color in our creative industry.</p></li>
+           <li><p>This is a listing of people of color who I find inspiring in the creative industry. I made this with the hope of showcasing to new and current creatives that there are other people like you in this field.</p></li>
            <li><a href="https://blog.prototypr.io/people-of-color-in-design-and-tech-b715fe0851b8" target="_blank">About the project</a></li>
-           <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGrssUEpQnnbIZDSqN-wNz_gYyaWvWz03XzA1vCKsDuIbzNg/viewform?usp=sf_link" target="_blank">Suggest Other Creatives</a></li>
-           <li><a href="#" class="btn " onclick="modalxyz">Donate A Coffee</a></li>
-           <script type="text/javascript">
-           var x = myFunction(4, 3);        // Function is called, return value will end up in x
+           <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGrssUEpQnnbIZDSqN-wNz_gYyaWvWz03XzA1vCKsDuIbzNg/viewform?usp=sf_link" target="_blank">Add Other Creatives</a></li>
+           <li><a class="waves-effect waves-light btn modalTrigger" href="#modal1" onclick="displayModal()">Donate A Coffee</a>
+           </li>
 
-         function myFunction(a, b) {
-             return a * b;
-             console.log("help");               // Function returns the product of a and b
-             document.write(a*b);
-         }
-           </script>
-           <li>
-
-</li>
            <li>
              <footer class="page-footer">
-                <p class="">Copyright © 2017 – Made by Rhino and Spade</p>
+               <p><a href="#">@rcasseus</a> for questions or comments.</p>
+                <p class="">Copyright © 2017 <br>Made by Rhino and Spade</p>
              </footer>
            </li>
          </ul>
@@ -70,7 +53,7 @@
 
 
 
-<!-- Mobile header -->
+<!-- Mobile header. You'll only see this from medium to small screens-->
 <div class="row hide-on-large-only">
   <div id="mobileHeader" class="col s12 m12">
     <h1>Creatives Of Color</h1>
@@ -83,7 +66,7 @@
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfGrssUEpQnnbIZDSqN-wNz_gYyaWvWz03XzA1vCKsDuIbzNg/viewform?usp=sf_link" target="_blank">Suggest Other Creatives</a>
       </div>
       <div class="col s12 m4">
-        <a href="#">Donate A Coffee</a>
+        <a href="#" onclick="displayModal()">Donate A Coffee</a>
       </div>
 
     </div>
@@ -94,155 +77,85 @@
 
         <!-- Right Column -->
         <div id="rightCol" class="col s12 m12 l8">
-          <!-- Modal Trigger -->
-         <!-- <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Modal</a> -->
-
-
 
 
 <!--Cards -->
+<div class="card small hoverable">
 
-   <div class="row ">
-       <div class="col s12 m4 l4">
-
-      <div class="card small">
-       <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
-      </div>
-       <div class="card-content">
-             <p class="name">first name last name</p>
-             <p class="location">new york city</p>
-              <p class="truncate">I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
-            </div>
-
-             <div class="card-action">
-              <a href="#" class="twitterIcon"><img src="Images/twitter.svg" alt=""></a>
-              <a href="#" class="websitelink right">website</a>
-            </div>
-       </div>
-       </div>
-
-        <div class="col s12 m4 l4">
-           <div class="card small">
-       <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
-      </div>
-       <div class="card-content">
-              <p class="truncate">I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
-            </div>
-
-             <div class="card-action">
-              <a href="#">This is a link</a>
-            </div>
-
-       </div>
-       </div>
-        <div class="col m4 l4">
-           <div class="card small">
-       <div class="card-image">
-        <img src="https://lorempixel.com/100/190/nature/6">
-      </div>
-       <div class="card-content">
-              <p>I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
-            </div>
-
-             <div class="card-action">
-              <a href="#">This is a link</a>
-            </div>
-
-       </div>
-       </div>
-
-
-   </div>
-
-
-        <!-- end of content -->
-
-
-      </div>
-
-
-
-      <!--Import jQuery before materialize.js-->
-
-
-       </script>
-
-
-       <!-- Modal Structure -->
-       <div id="modal1" class="modal">
-         <div class="modal-content">
-           <div class="row">
-             <div class="col s11 m11 l11">
-               <h4 >Donate a coffee</h4>
-             </div>
-             <div class="col s1 m1 l1">
-               <i class="material-icons medium right modal-close close">close</i>
-             </div>
-           </div>
-
-
-           <div class="row">
-             <div class="col s12 m12 l8">
-               <h6 id="divA">Why donate?</h6>
-                <ol>
-                  <li>Because hosting a website cost $ or Ƀ. </li>
-                  <li>I stayed up nights making this happen.</li>
-                  <li>Designing is hard</li>
-                  <li>Coding is hard</li>
-                  <li>We deserve this</li>
-                </ol>
-             </div>
-
-            <div class="col m12 l2 hide-on-med-and-down">
-              <img src="images/coffee.png" alt="">
-
-            </div>
-
-           </div>
-
-
-            <h6>Donate via bitcoin</h6>
-
-    <!-- Form field -->
-
-    <!-- kill this form field and make it a straight text  of the bitcoin address and image thing
-    Build on this to include copy of text later ons
-     -->
-
-     <!-- just code the open and close with jQuery  -->
-
-    <div class="row">
-      <div class="col s12 m8 l8">
-
-        <p class="btcAddress">
-          <em id="btnTest">Bitcoin address:</em><br> <span >1LxoNuS5bJXLzvCmAyAxudoPPpNFPUEVFY</span>
-        </p>
-
-
-      </div>
-
-      <div class="col s12 m4 l4 hide-on-med-and-down">
-        <div >
-          <img class="btcAddress-img" src="images/bitcoin-address.png" alt="">
-        </div>
-      </div>
-
-
+     <div class="card-image">
+       <a href="https://twitter.com/umiworkshop?lang=en" target="_blank" data-type="website">
+         <img data-type="picture" src="https://lorempixel.com/100/190/nature/6">
+       </a>
     </div>
 
+     <div class="card-content">
+           <p class="card-title" data-type="name"><a href="#" data-type="twitterHandle">Jon Lewis</a></p>
+           <p class="location" data-type="location">HNL / SFO / DC</p>
+           <p class="" data-type="about">Designer + Feminist + Black Man. Founder of @CircaVictor.Formerly lead design @ElevateLabs (2014 App of the Year) @designerbridge Alum #aloha</p>
+      </div>
 
-    <!-- End of Form field -->
+      <div class="card-action">
+            <a href="https://twitter.com/umiworkshop?lang=en" target="_blank" class="twitterIcon"><img src="Images/twitter.svg" alt=""></a>
+            <a href="https://twitter.com/umiworkshop?lang=en" class="websitelink right" target="_blank" data-type="website">website</a>
+      </div>
+ </div>
+
+   </div>
+      <!-- Scripts  -->
+      <!-- Modal Structure -->
+      <div id="modal1" class="modal">
+        <div class="modal-content">
+          <div class="row">
+            <div class="col s11 m11 l11">
+              <h4 >Donate a coffee</h4>
+            </div>
+            <div class="col s1 m1 l1">
+              <i class="material-icons medium right modalClose close" onclick="closeModal()">close</i>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col s12 m12 l8">
+              <h6>Why donate?</h6>
+               <ol>
+                 <li>Because hosting a website cost $ or Ƀ. </li>
+                 <li>I stayed up nights making this happen.</li>
+                 <li>Designing is hard</li>
+                 <li>Coding is hard</li>
+                 <li>We deserve this</li>
+               </ol>
             </div>
 
+           <div class="col m12 l2 hide-on-med-and-down">
+             <img src="images/coffee.png" alt="">
+           </div>
+          </div>
 
-         </div>
 
-       </div>
+           <h6>Donate via bitcoin</h6>
+           <div class="row">
+                 <div class="col s12 m12 l8">
+                     <p >
+                       <em id="btnTest">Bitcoin address:</em><br>
+                       1LxoNuS5bJXLzvCmAyAxudoPPpNFPUEVFY
+                     </p>
+                 </div>
+
+                 <div class="col s12 m4 l4 hide-on-med-and-down">
+                   <div >
+                     <img class="btcAddress-img" src="images/bitcoin-address.png" alt="">
+                   </div>
+                 </div>
+           </div>
+           </div>
+        </div>
+        <!--End of Modal  -->
+      <script src="js/app.js"></script>
+
+      <!--Import jQuery before materialize.js-->
+           <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+           <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+
 
   </body>
 </html>
