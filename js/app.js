@@ -4,7 +4,10 @@ function displayModal() { // codekit ignore:line
   document.getElementById('demo').innerHTML = "Clicked"; // this worked!!!!!!
   document.getElementById('modal1').style.display = "block"; // this worked!!!!!!
   console.log("Donate button clicked");
+
 };
+
+
 
 function closeModal(){
   document.getElementById("modal1").style.display = "none";
@@ -40,7 +43,7 @@ function closeModal(){
         newCard += '<a href="https://twitter.com/umiworkshop?lang=en" class="websitelink right" target="_blank" data-type="website">website</a>';
         newCard += '</div>';
         newCard += '</div>';
-      };
+      }; // end loop
       document.getElementById('rightCol').innerHTML = newCard;
 
 
@@ -68,3 +71,4 @@ function closeModal(){
       // // $('.card-action').append('<a href="#">');
 
     }); // End Get Json
+
