@@ -41,7 +41,7 @@ function closeModal(){
         newCard += '</div>';
         newCard += '<div class="card-content">';
         newCard += '<p class="card-title"><a href="'+ twitterHandle+'" class="twitterHandle">' + userName + '</a></p>'; // this works
-        newCard += '<p class="role">'+ userLoc +'</p>';
+        newCard += '<p class="role">'+ userRole +'</p>';
         newCard += '<p class="about">' + about + '</p>'; // this works
         newCard += '</div>';
         newCard += '<div class="card-action">';
