@@ -46,14 +46,21 @@ function closeModal(){
         newCard += '</div>';
         newCard += '<div class="card-action">';
         newCard += '<a href=" '+twitterHandle+' " target="_blank" class="websitelink twitterIcon"><img src="images/twitter.png" alt="twitter icon"></a>';
-        newCard += '<a href="' + urlLink + ' " class="websitelink right" target="_blank">website</a>'; // this works
+        newCard += '<a href="' + urlLink + ' " class="websitelink right" target="_blank"><i class="material-icons">open_in_new</i></a>'; // this works
         newCard += '</div>';
         newCard += '</div>';
         newCard += '</div>';
 
 
+          // I want to know when a records field is false, then
 
-      };
+          if (userRole == false) {
+            console.log(twitterHandle);
+          };
+
+
+
+      }; // End of Loop
 
       document.getElementById('rightColContent').innerHTML = newCard;
 
