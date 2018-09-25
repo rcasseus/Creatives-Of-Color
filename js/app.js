@@ -53,15 +53,10 @@ function closeModal(){
 
 
           // I want to know when a records field is false, then
-          var tempImag = 'https://photos.google.com/share/AF1QipN_E_244OYZmXxEjJAx7wq1MPC1cw9I9g-FWYOBiTO57veR9KQFRbyWEJSFy3SoRA/photo/AF1QipMUxLqE2odeRZWwQLqCC8O1bHtsuqVesKAuGJ3z?key=OGZFbWtxelNhVzVqbFlSZnhGdkVWNjkwUnNYQmRB';
 
           if (userRole == false) {
             console.log(twitterHandle);
-            userImg = tempImag;
           };
-
-// trying to max out the length of the about text.
-          if (about.lengthe ==)
 
 
 
@@ -71,16 +66,11 @@ function closeModal(){
 
 
 
-
-
     }); // End Get Json
 
 
 // get date for copyright
-function aboutTextlength(){
-  //var str = about.length;
-  console.log('test');
-};
+
 function currentYear(){
   var d = new Date();
   var n = d.getFullYear();

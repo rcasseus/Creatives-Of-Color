@@ -74,8 +74,8 @@
   cursor: pointer;
 
   &:hover {
-    background-color: darken($button-raised-background, 10%);
-    // color: red;
+    background-color: $button-raised-background-hover;
+    color: red;
     // @extend .z-depth-1-half;
   }
 }
