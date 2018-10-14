@@ -2202,7 +2202,7 @@ ul.staggered-list li {
     text-align: center; } }
 
 .page-footer {
-  padding-top: 20px;
+  /* padding-top: 20px; */
   color: #808284;
   font-size: 15px; }
   .page-footer .footer-copyright {
@@ -5431,7 +5431,7 @@ input[type=range]:focus::-ms-fill-upper {
     .side-nav li > a.btn, .side-nav li > a.btn-large, .side-nav li > a.btn-large, .side-nav li > a.btn-flat, .side-nav li > a.btn-floating {
       letter-spacing: 2px;
       font-weight: 700;
-      font-size: 24px;
+      font-size: 22px;
       height: 50px;
       width: 280px;
       line-height: 100%; }
