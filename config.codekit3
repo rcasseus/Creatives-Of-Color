@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,643 +7,643 @@
 		"uuidString": "CA08DA86-295C-4138-AC1A-9BF52D50BED6"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "28905",
 "files": {
-	"\/css\/style.css": {
+	"/css/style.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/style-min.css",
+		"oAP": "/css/style-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/css\/style.css.map": {
+	"/css/style.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/style.css.map",
+		"oAP": "/css/style.css.map",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Bold.woff": {
+	"/fonts/roboto/Roboto-Bold.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Bold.woff",
+		"oAP": "/fonts/roboto/Roboto-Bold.woff",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Bold.woff2": {
+	"/fonts/roboto/Roboto-Bold.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Bold.woff2",
+		"oAP": "/fonts/roboto/Roboto-Bold.woff2",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Light.woff": {
+	"/fonts/roboto/Roboto-Light.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Light.woff",
+		"oAP": "/fonts/roboto/Roboto-Light.woff",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Light.woff2": {
+	"/fonts/roboto/Roboto-Light.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Light.woff2",
+		"oAP": "/fonts/roboto/Roboto-Light.woff2",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Medium.woff": {
+	"/fonts/roboto/Roboto-Medium.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Medium.woff",
+		"oAP": "/fonts/roboto/Roboto-Medium.woff",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Medium.woff2": {
+	"/fonts/roboto/Roboto-Medium.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Medium.woff2",
+		"oAP": "/fonts/roboto/Roboto-Medium.woff2",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Regular.woff": {
+	"/fonts/roboto/Roboto-Regular.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Regular.woff",
+		"oAP": "/fonts/roboto/Roboto-Regular.woff",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Regular.woff2": {
+	"/fonts/roboto/Roboto-Regular.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Regular.woff2",
+		"oAP": "/fonts/roboto/Roboto-Regular.woff2",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Thin.woff": {
+	"/fonts/roboto/Roboto-Thin.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Thin.woff",
+		"oAP": "/fonts/roboto/Roboto-Thin.woff",
 		"oF": 0
 		},
-	"\/fonts\/roboto\/Roboto-Thin.woff2": {
+	"/fonts/roboto/Roboto-Thin.woff2": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/roboto\/Roboto-Thin.woff2",
+		"oAP": "/fonts/roboto/Roboto-Thin.woff2",
 		"oF": 0
 		},
-	"\/images\/allisonchan_its-me.jpg": {
+	"/images/allisonchan_its-me.jpg": {
 		"ft": 16384,
 		"iS": 72731,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/allisonchan_its-me.jpg",
+		"oAP": "/images/allisonchan_its-me.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/bitcoin-address.png": {
+	"/images/bitcoin-address.png": {
 		"ft": 32768,
 		"iS": 6598,
 		"oA": 0,
-		"oAP": "\/images\/bitcoin-address.png",
+		"oAP": "/images/bitcoin-address.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/coffee.png": {
+	"/images/coffee.png": {
 		"ft": 32768,
 		"iS": 8543,
 		"oA": 0,
-		"oAP": "\/images\/coffee.png",
+		"oAP": "/images/coffee.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/its me.jpg": {
+	"/images/its me.jpg": {
 		"ft": 16384,
 		"iS": 117799,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/its me.jpg",
+		"oAP": "/images/its me.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/leftCol_bgImg.png": {
+	"/images/leftCol_bgImg.png": {
 		"ft": 32768,
 		"iS": 389208,
 		"oA": 0,
-		"oAP": "\/images\/leftCol_bgImg.png",
+		"oAP": "/images/leftCol_bgImg.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/me-smile-2.jpg": {
+	"/images/me-smile-2.jpg": {
 		"ft": 16384,
 		"iS": 327017,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/me-smile-2.jpg",
+		"oAP": "/images/me-smile-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/pablostanley-me-smile-2.jpg": {
+	"/images/pablostanley-me-smile-2.jpg": {
 		"ft": 16384,
 		"iS": 2161993,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/pablostanley-me-smile-2.jpg",
+		"oAP": "/images/pablostanley-me-smile-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/pf_20130414_1_700.jpg": {
+	"/images/pf_20130414_1_700.jpg": {
 		"ft": 16384,
 		"iS": 283444,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/pf_20130414_1_700.jpg",
+		"oAP": "/images/pf_20130414_1_700.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/profileFPO_female.png": {
+	"/images/profileFPO_female.png": {
 		"ft": 32768,
 		"iS": 9874,
 		"oA": 0,
-		"oAP": "\/images\/profileFPO_female.png",
+		"oAP": "/images/profileFPO_female.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/profileFPO_female.svg": {
+	"/images/profileFPO_female.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/profileFPO_female.svg",
+		"oAP": "/images/profileFPO_female.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/profileFPO_male.png": {
+	"/images/profileFPO_male.png": {
 		"ft": 32768,
 		"iS": 8445,
 		"oA": 0,
-		"oAP": "\/images\/profileFPO_male.png",
+		"oAP": "/images/profileFPO_male.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/profileFPO_male.svg": {
+	"/images/profileFPO_male.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/profileFPO_male.svg",
+		"oAP": "/images/profileFPO_male.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/twitter.png": {
+	"/images/twitter.png": {
 		"ft": 32768,
 		"iS": 5174,
 		"oA": 0,
-		"oAP": "\/images\/twitter.png",
+		"oAP": "/images/twitter.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/twitter.svg": {
+	"/images/twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/images\/twitter.svg",
+		"oAP": "/images/twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/images\/Twitter_26.png": {
+	"/images/Twitter_26.png": {
 		"ft": 32768,
 		"iS": 782,
 		"oA": 0,
-		"oAP": "\/images\/Twitter_26.png",
+		"oAP": "/images/Twitter_26.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/Twitter_26@2x.png": {
+	"/images/Twitter_26@2x.png": {
 		"ft": 32768,
 		"iS": 1761,
 		"oA": 0,
-		"oAP": "\/images\/Twitter_26@2x.png",
+		"oAP": "/images/Twitter_26@2x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/js\/animation.js": {
+	"/js/animation.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/app.js": {
+	"/js/app.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/bin\/materialize.js": {
+	"/js/bin/materialize.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/bin\/materialize.min.js",
+		"oAP": "/js/bin/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/bin\/materialize.min.js": {
+	"/js/bin/materialize.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/bin\/materialize.min.js",
+		"oAP": "/js/bin/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/buttons.js": {
+	"/js/buttons.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/cards.js": {
+	"/js/cards.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/carousel.js": {
+	"/js/carousel.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/character_counter.js": {
+	"/js/character_counter.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/chips.js": {
+	"/js/chips.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/collapsible.js": {
+	"/js/collapsible.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/date_picker\/picker.date.js": {
+	"/js/date_picker/picker.date.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/date_picker\/materialize.min.js",
+		"oAP": "/js/date_picker/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/date_picker\/picker.js": {
+	"/js/date_picker/picker.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/date_picker\/materialize.min.js",
+		"oAP": "/js/date_picker/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/date_picker\/picker.time.js": {
+	"/js/date_picker/picker.time.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/date_picker\/materialize.min.js",
+		"oAP": "/js/date_picker/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/dropdown.js": {
+	"/js/dropdown.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/forms.js": {
+	"/js/forms.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/global.js": {
+	"/js/global.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/hammer.min.js": {
+	"/js/hammer.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/initial.js": {
+	"/js/initial.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/jquery.easing.1.4.js": {
+	"/js/jquery.easing.1.4.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/jquery.hammer.js": {
+	"/js/jquery.hammer.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/materialbox.js": {
+	"/js/materialbox.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/materialize.min.js": {
+	"/js/materialize.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/modal.js": {
+	"/js/modal.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/parallax.js": {
+	"/js/parallax.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/pushpin.js": {
+	"/js/pushpin.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/scrollFire.js": {
+	"/js/scrollFire.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/scrollspy.js": {
+	"/js/scrollspy.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/sideNav.js": {
+	"/js/sideNav.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/slider.js": {
+	"/js/slider.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/tabs.js": {
+	"/js/tabs.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/tapTarget.js": {
+	"/js/tapTarget.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/toasts.js": {
+	"/js/toasts.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/tooltip.js": {
+	"/js/tooltip.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/transitions.js": {
+	"/js/transitions.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/velocity.min.js": {
+	"/js/velocity.min.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/js\/waves.js": {
+	"/js/waves.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/materialize.min.js",
+		"oAP": "/js/materialize.min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"\/LICENSE": {
+	"/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/LICENSE",
+		"oAP": "/LICENSE",
 		"oF": 0
 		},
-	"\/README.md": {
+	"/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -652,7 +652,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/README.html",
+		"oAP": "/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -661,7 +661,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"\/sass\/components\/_badges.scss": {
+	"/sass/components/_badges.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -669,12 +669,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_badges.css",
+		"oAP": "/sass/components/_badges.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_buttons.scss": {
+	"/sass/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -682,12 +682,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_buttons.css",
+		"oAP": "/sass/components/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_cards.scss": {
+	"/sass/components/_cards.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -695,12 +695,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_cards.css",
+		"oAP": "/sass/components/_cards.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_carousel.scss": {
+	"/sass/components/_carousel.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -708,12 +708,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_carousel.css",
+		"oAP": "/sass/components/_carousel.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_chips.scss": {
+	"/sass/components/_chips.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -721,12 +721,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_chips.css",
+		"oAP": "/sass/components/_chips.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_collapsible.scss": {
+	"/sass/components/_collapsible.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -734,12 +734,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_collapsible.css",
+		"oAP": "/sass/components/_collapsible.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_color.scss": {
+	"/sass/components/_color.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -747,12 +747,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_color.css",
+		"oAP": "/sass/components/_color.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_dropdown.scss": {
+	"/sass/components/_dropdown.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -760,12 +760,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_dropdown.css",
+		"oAP": "/sass/components/_dropdown.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_global.scss": {
+	"/sass/components/_global.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -773,12 +773,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_global.css",
+		"oAP": "/sass/components/_global.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_grid.scss": {
+	"/sass/components/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -786,12 +786,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_grid.css",
+		"oAP": "/sass/components/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_icons-material-design.scss": {
+	"/sass/components/_icons-material-design.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -799,12 +799,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_icons-material-design.css",
+		"oAP": "/sass/components/_icons-material-design.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_materialbox.scss": {
+	"/sass/components/_materialbox.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -812,12 +812,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_materialbox.css",
+		"oAP": "/sass/components/_materialbox.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_mixins.scss": {
+	"/sass/components/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -825,12 +825,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_mixins.css",
+		"oAP": "/sass/components/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_modal.scss": {
+	"/sass/components/_modal.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -838,12 +838,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_modal.css",
+		"oAP": "/sass/components/_modal.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_navbar.scss": {
+	"/sass/components/_navbar.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -851,12 +851,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_navbar.css",
+		"oAP": "/sass/components/_navbar.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_normalize.scss": {
+	"/sass/components/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -864,12 +864,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_normalize.css",
+		"oAP": "/sass/components/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_preloader.scss": {
+	"/sass/components/_preloader.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -877,12 +877,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_preloader.css",
+		"oAP": "/sass/components/_preloader.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_pulse.scss": {
+	"/sass/components/_pulse.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -890,12 +890,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_pulse.css",
+		"oAP": "/sass/components/_pulse.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_roboto.scss": {
+	"/sass/components/_roboto.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -903,12 +903,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_roboto.css",
+		"oAP": "/sass/components/_roboto.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_sideNav.scss": {
+	"/sass/components/_sideNav.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -916,12 +916,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_sideNav.css",
+		"oAP": "/sass/components/_sideNav.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_slider.scss": {
+	"/sass/components/_slider.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -929,12 +929,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_slider.css",
+		"oAP": "/sass/components/_slider.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_table_of_contents.scss": {
+	"/sass/components/_table_of_contents.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -942,12 +942,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_table_of_contents.css",
+		"oAP": "/sass/components/_table_of_contents.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_tabs.scss": {
+	"/sass/components/_tabs.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -955,12 +955,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_tabs.css",
+		"oAP": "/sass/components/_tabs.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_tapTarget.scss": {
+	"/sass/components/_tapTarget.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -968,12 +968,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_tapTarget.css",
+		"oAP": "/sass/components/_tapTarget.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_toast.scss": {
+	"/sass/components/_toast.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -981,12 +981,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_toast.css",
+		"oAP": "/sass/components/_toast.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_tooltip.scss": {
+	"/sass/components/_tooltip.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -994,12 +994,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_tooltip.css",
+		"oAP": "/sass/components/_tooltip.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_transitions.scss": {
+	"/sass/components/_transitions.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1007,12 +1007,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_transitions.css",
+		"oAP": "/sass/components/_transitions.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_typography.scss": {
+	"/sass/components/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1020,12 +1020,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_typography.css",
+		"oAP": "/sass/components/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_variables.scss": {
+	"/sass/components/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1033,12 +1033,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_variables.css",
+		"oAP": "/sass/components/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/_waves.scss": {
+	"/sass/components/_waves.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1046,12 +1046,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/_waves.css",
+		"oAP": "/sass/components/_waves.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/date_picker\/_default.date.scss": {
+	"/sass/components/date_picker/_default.date.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1059,12 +1059,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/date_picker\/_default.date.css",
+		"oAP": "/sass/components/date_picker/_default.date.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/date_picker\/_default.scss": {
+	"/sass/components/date_picker/_default.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1072,12 +1072,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/date_picker\/_default.css",
+		"oAP": "/sass/components/date_picker/_default.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/date_picker\/_default.time.scss": {
+	"/sass/components/date_picker/_default.time.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1085,12 +1085,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/date_picker\/_default.time.css",
+		"oAP": "/sass/components/date_picker/_default.time.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_checkboxes.scss": {
+	"/sass/components/forms/_checkboxes.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1098,12 +1098,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_checkboxes.css",
+		"oAP": "/sass/components/forms/_checkboxes.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_file-input.scss": {
+	"/sass/components/forms/_file-input.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1111,12 +1111,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_file-input.css",
+		"oAP": "/sass/components/forms/_file-input.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_forms.scss": {
+	"/sass/components/forms/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1124,12 +1124,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_forms.css",
+		"oAP": "/sass/components/forms/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_input-fields.scss": {
+	"/sass/components/forms/_input-fields.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1137,12 +1137,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_input-fields.css",
+		"oAP": "/sass/components/forms/_input-fields.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_radio-buttons.scss": {
+	"/sass/components/forms/_radio-buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1150,12 +1150,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_radio-buttons.css",
+		"oAP": "/sass/components/forms/_radio-buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_range.scss": {
+	"/sass/components/forms/_range.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1163,12 +1163,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_range.css",
+		"oAP": "/sass/components/forms/_range.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_select.scss": {
+	"/sass/components/forms/_select.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1176,12 +1176,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_select.css",
+		"oAP": "/sass/components/forms/_select.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/components\/forms\/_switches.scss": {
+	"/sass/components/forms/_switches.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1189,22 +1189,22 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/sass\/components\/forms\/_switches.css",
+		"oAP": "/sass/components/forms/_switches.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/sass\/materialize.css": {
+	"/sass/materialize.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/sass\/materialize-min.css",
+		"oAP": "/sass/materialize-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/sass\/materialize.scss": {
+	"/sass/materialize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -1212,7 +1212,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/sass\/materialize.css",
+		"oAP": "/sass/materialize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -1234,141 +1234,94 @@
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -1380,7 +1333,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -1392,7 +1366,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -1428,53 +1420,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -1483,6 +1468,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -1840,6 +1826,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -1851,6 +1841,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -1896,6 +1890,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -1914,10 +1912,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -2116,9 +2110,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -2472,6 +2470,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -2500,6 +2502,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -2507,6 +2513,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 1,
@@ -2562,7 +2572,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -2622,7 +2632,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3017,7 +3027,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -3036,7 +3045,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "materialize.min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
@@ -3068,19 +3077,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -3136,7 +3145,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3165,7 +3174,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
@@ -3189,36 +3198,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 2,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3226,11 +3269,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3254,6 +3297,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -3270,7 +3317,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3278,20 +3333,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -3306,6 +3373,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -3314,12 +3389,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -3330,11 +3413,19 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3346,23 +3437,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3374,9 +3493,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",
