@@ -32,6 +32,13 @@ function closeModal(){
         var userLoc = (data.feed.entry[i]["gsx$whereareyoulocated"]['$t']);
 
 
+        if (twitterHandle == false) {
+          //document.getElementsByClassName("card-title").style.color = "#ff00ff";
+          document.getElementById('demo').style.color = "#ff00ff";
+          document.getElementsByClassName('twitterIcon').style.visibility = "hidden";
+
+        }
+
 
         // Card template
         newCard += '<div class="col s12 m4 l4 ">';
@@ -61,6 +68,7 @@ function closeModal(){
 
 
 
+
       }; // End of Loop
 
       document.getElementById('rightColContent').innerHTML = newCard;
@@ -69,11 +77,16 @@ function closeModal(){
 
     }); // End Get Json
 
+// truncate about text
 
-// get date for copyright
-
-function currentYear(){
-  var d = new Date();
-  var n = d.getFullYear();
-  document.getElementById("copyRightYear").innerHTML = n;
+function aboutLength(){
+    var abtLength = document.getElementByI("demo");
+    console.log(abtLength);
 };
+
+
+function closeModal(){
+  document.getElementById("modal1").style.display = "none";
+  console.log("Close button clicked");
+
+}
