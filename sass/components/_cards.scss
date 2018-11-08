@@ -64,10 +64,7 @@
       }
     }
   }
-.twitterIcon{
-  display: inline;
-  visibility: visible;
-}
+
 
   &.small {
     height: 400px;
@@ -224,4 +221,9 @@
       display: block;
     }
   }
+}
+
+.twitterIcon{
+  display: inline;
+  visibility: visible;
 }

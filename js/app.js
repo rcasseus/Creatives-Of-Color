@@ -32,12 +32,6 @@ function closeModal(){
         var userLoc = (data.feed.entry[i]["gsx$whereareyoulocated"]['$t']);
 
 
-        if (twitterHandle == false) {
-          //document.getElementsByClassName("card-title").style.color = "#ff00ff";
-          document.getElementById('demo').style.color = "#ff00ff";
-          document.getElementsByClassName('twitterIcon').style.visibility = "hidden";
-
-        }
 
 
         // Card template
@@ -66,7 +60,20 @@ function closeModal(){
             console.log(twitterHandle);
           };
 
+          // remove twitter icon if no value
 
+          var twitterIcon1 = document.getElementsByClassName('twitterIcon');
+
+                  if (twitterHandle == false) {
+                    console.log(twitterHandle);
+
+                    //document.getElementsByClassName("card-title").style.color = "#ff00ff";
+                    //document.getElementById('demo').style.color = "#ff00ff";
+                    //twitterIcon1.style.display = "none";
+                    //document.getElementsByClassName('twitterIcon').style.visibility = "hidden";
+
+
+                  }
 
 
       }; // End of Loop
@@ -76,17 +83,3 @@ function closeModal(){
 
 
     }); // End Get Json
-
-// truncate about text
-
-function aboutLength(){
-    var abtLength = document.getElementByI("demo");
-    console.log(abtLength);
-};
-
-
-function closeModal(){
-  document.getElementById("modal1").style.display = "none";
-  console.log("Close button clicked");
-
-}

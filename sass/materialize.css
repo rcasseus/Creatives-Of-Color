@@ -3454,9 +3454,6 @@ small {
       .card.small .card-action img, .card.medium .card-action img, .card.large .card-action img {
         height: 26px;
         width: 26px; }
-  .card .twitterIcon {
-    display: inline;
-    visibility: visible; }
   .card.small {
     height: 400px; }
   .card.medium {
@@ -3550,6 +3547,10 @@ small {
     .card .card-reveal .card-title {
       cursor: pointer;
       display: block; }
+
+.twitterIcon {
+  display: inline;
+  visibility: visible; }
 
 #toast-container {
   display: block;
