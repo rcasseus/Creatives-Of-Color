@@ -14,7 +14,7 @@ function closeModal(){
 
 // Getting all records and stuff from the database
 
-    $.getJSON("https://spreadsheets.google.com/feeds/list/1mFtnlk9MjHz9smP07SG2uPJ8rkv8dt2_eDR5wqLkilg/1/public/values?alt=json", function(data) {
+    $.getJSON("https://spreadsheets.google.com/feeds/list//1vBxh-IOal5mR833bAwnvH9kZ7Xe5o4eEe57ve5a1m1o/1/public/values?alt=json", function(data) {
 
 
       // create a card
